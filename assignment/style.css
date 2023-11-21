@@ -11,4 +11,14 @@ img {
 
 h2 {
     background-color: beige;
+    text-align: center;
+    color: darkgoldenrod;
 }
+
+
+h3 {
+    background-color: chocolate;
+    text-align: center;
+    color: blanchedalmond;
+}
+
